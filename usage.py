@@ -9,7 +9,7 @@ app.scripts.config.serve_locally = True
 app.css.config.serve_locally = True
 
 app.layout = html.Div([
-    my_dash_component.ExampleComponent(
+    calendar_component.ExampleComponent(
         id='input',
         value='my-value',
         label='my-label'

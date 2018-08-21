@@ -1,4 +1,4 @@
-include my_dash_component/bundle.js
-include my_dash_component/metadata.json
-include my_dash_component/package.json
+include calendar-component/bundle.js
+include calendar-component/metadata.json
+include calendar-component/package.json
 include README.md

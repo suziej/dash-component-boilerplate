@@ -1,4 +1,4 @@
-include calendar-component/bundle.js
-include calendar-component/metadata.json
-include calendar-component/package.json
+include calendar_component/bundle.js
+include calendar_component/metadata.json
+include calendar_component/package.json
 include README.md

@@ -1,13 +1,13 @@
 {
-  "name": "my-dash-component",
+  "name": "calendar-component",
   "version": "0.0.1",
-  "description": "my-dash-component",
+  "description": "calendar-component",
   "main": "build/index.js",
   "scripts": {
     "start": "webpack-serve ./webpack.serve.config.js --open",
     "build:js-dev": "webpack --mode development",
     "build:js": "webpack --mode production",
-    "build:py": "./extract-meta src/lib/components > my_dash_component/metadata.json && cp package.json my_dash_component"
+    "build:py": "./extract-meta src/lib/components > calendar_component/metadata.json && cp package.json calendar_component"
   },
   "author": "my-name my-email",
   "license": "my-license",

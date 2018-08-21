@@ -1,4 +1,4 @@
-import my_dash_component
+import calendar_component
 import dash
 from dash.dependencies import Input, Output
 import dash_html_components as html
